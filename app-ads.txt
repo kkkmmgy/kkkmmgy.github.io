@@ -1,3 +1,1 @@
-# AdMob の管理画面 (アプリ → すべてのアプリを表示 → app-ads.txt → 設定方法) に
-# 表示される 1 行を、この下に貼り付けてください。
-# 例: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-9465868855150237, DIRECT, f08c47fec0942fa0
